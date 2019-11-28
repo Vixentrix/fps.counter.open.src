@@ -1,0 +1,11 @@
+E:\Installer\Documents\Visual Studio 2019\Projects\fps.counter.open.src\fps.counter.open.src\bin\Debug\fps.counter.open.src.exe.config
+E:\Installer\Documents\Visual Studio 2019\Projects\fps.counter.open.src\fps.counter.open.src\bin\Debug\fps.counter.open.src.exe
+E:\Installer\Documents\Visual Studio 2019\Projects\fps.counter.open.src\fps.counter.open.src\bin\Debug\fps.counter.open.src.pdb
+E:\Installer\Documents\Visual Studio 2019\Projects\fps.counter.open.src\fps.counter.open.src\bin\Debug\fps.counter.open.src.xml
+E:\Installer\Documents\Visual Studio 2019\Projects\fps.counter.open.src\fps.counter.open.src\obj\Debug\fps.counter.open.src.vbprojAssemblyReference.cache
+E:\Installer\Documents\Visual Studio 2019\Projects\fps.counter.open.src\fps.counter.open.src\obj\Debug\fps.counter.open.src.Form1.resources
+E:\Installer\Documents\Visual Studio 2019\Projects\fps.counter.open.src\fps.counter.open.src\obj\Debug\fps.counter.open.src.Resources.resources
+E:\Installer\Documents\Visual Studio 2019\Projects\fps.counter.open.src\fps.counter.open.src\obj\Debug\fps.counter.open.src.vbproj.GenerateResource.cache
+E:\Installer\Documents\Visual Studio 2019\Projects\fps.counter.open.src\fps.counter.open.src\obj\Debug\fps.counter.open.src.exe
+E:\Installer\Documents\Visual Studio 2019\Projects\fps.counter.open.src\fps.counter.open.src\obj\Debug\fps.counter.open.src.xml
+E:\Installer\Documents\Visual Studio 2019\Projects\fps.counter.open.src\fps.counter.open.src\obj\Debug\fps.counter.open.src.pdb
